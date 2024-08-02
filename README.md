@@ -16,7 +16,7 @@ Model Evaluation:
 *  *Performance metrics including confusion matrix, accuracy, precision, and recall.*
 
 Visualization:
-*  *Word clouds for positive and negative reviews, bar charts for model comparison and review counts.*
+*  *Word clouds for positive and negative reviews, bar charts for model comparison, and review counts.*
 
 
 ### Libraries Used
